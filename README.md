@@ -1,4 +1,8 @@
-<h1 align="center">✨ Hola, soy Tamara Zarate ✨</h1>
+<h1 align="center">
+  <img src="https://cdn.pixabay.com/animation/2023/05/24/09/24/09-24-42-659_512.gif" width="40"/>
+  Hola, soy Tamara Zarate
+  <img src="https://cdn.pixabay.com/animation/2023/05/24/09/24/09-24-42-659_512.gif" width="40"/>
+</h1>
 <h3 align="center">💻 Full Stack Developer en formación | Backend & Frontend 💻</h3>
 
 ---
